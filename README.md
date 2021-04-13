@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### HTTP Client Axios
 For the browser and node.js api requests
 ### Ant Design
-Used for components
+Used for design components
 ### React-router-dom 
 For routing
 ## Available Scripts
