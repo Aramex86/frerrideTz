@@ -24,7 +24,7 @@ const columns = [
 ];
 
 const getNewDateFormat = (date: string) => {
-  return new Date(date).toLocaleDateString().replaceAll("/", ".");
+  return new Date(date).toLocaleString('en-GB').replaceAll('/','.').slice(0,10);
 };
 
 type PropsType = {
