@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.ant-form-horizontal{
+ margin-top: 200px !important;
+}
+
+.ant-table-content{
+  width: 90%;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.ant-alert-error{
+  
+}
+.ant-alert-info{
+  width: 300px;
+  position: absolute !important;
+  top: 0;
+  left: 20px;
+}
