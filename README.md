@@ -1,7 +1,15 @@
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### HTTP Client Axios
+For the browser and node.js api requests
+### Ant Design
+Used for design components
+### React-router-dom 
+For routing
 ## Available Scripts
 
 In the project directory, you can run:
